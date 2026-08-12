@@ -157,20 +157,6 @@ Dashboard
 | PUT | `/api/tasks/:id` | Update a task |
 | DELETE | `/api/tasks/:id` | Delete a task |
 
----
-
- 📈 Future Enhancements
-
-- User Authentication (JWT)
-- Employee Login System
-- Role-Based Access Control
-- Email Notifications
-- Task Assignment
-- File Attachments
-- Calendar Integration
-- Dark Mode
-- Task Categories
-- Pagination
 
 ---
 
@@ -179,12 +165,6 @@ Dashboard
 Seema A K
 
 GitHub:
-https://github.com/Seemakamble7829
+https://github.com/Seemakamble7829/employee-task-management-system
 
----
 
- ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
