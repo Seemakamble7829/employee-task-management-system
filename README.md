@@ -91,13 +91,6 @@ cd backend
 npm install
 ```
 
-Create a `.env` file inside the **backend** folder.
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-```
-
 Run the backend server:
 
 ```bash
@@ -128,25 +121,7 @@ Application runs at:
 http://localhost:5173
 ```
 
----
 
-Dashboard
-
-> Add a screenshot here
-
- Add Task
-
-> Add a screenshot here
-
- Task List
-
-> Add a screenshot here
-
- Search & Filter
-
-> Add a screenshot here
-
----
 
  📡 API Endpoints
 
